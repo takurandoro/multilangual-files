@@ -1,0 +1,7 @@
+{
+  "welcome": "Bienvenido",
+  "login": {
+    "success": "¡Inicio de sesión exitoso!",
+    "error": "Credenciales inválidas"
+  }
+}

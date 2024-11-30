@@ -1,0 +1,7 @@
+{
+  "welcome": "Bienvenue",
+  "login": {
+    "success": "Connexion réussie!",
+    "error": "Identifiants invalides"
+  }
+}
